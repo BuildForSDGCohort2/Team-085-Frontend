@@ -20,4 +20,11 @@ Only members of TEAM-085 of the Andela/Facebook Build for SDG Cohort 2 are allow
 
 - All commits within each pull request are treated as one, therefore if ther is an error with one commit, the entire push will be rejected. It is advised that pull requests are opened based on a single feature or function, and they should contain as few lines of code or commits as is necessary. Avoid trying to do too much at once.
 
+## Code Style
+It is extremely important that everyone follows the same code style. We'll be using the [Udacity](udacity.com) style guide for this project, because it is concise and easy to follow.
+- [Code Style for HTML](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
+- [Code Style Guide for CSS](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
+- [Code Style Guide for Javascript](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+- [Code Style Guide for Git](https://udacity.github.io/git-styleguide/)
+
 ## External Contributors
