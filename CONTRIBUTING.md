@@ -16,4 +16,8 @@ Only members of TEAM-085 of the Andela/Facebook Build for SDG Cohort 2 are allow
 - [ ] If any bugs or discrepancies are encounter on the `staging` branch, a issue will be created with the `bug` label and assigned to a developer to fix.
 - [ ] When the `staging` branch is at a state that is production ready, it will then be pushed to the `develop` branch for final review.
 
+## Important Notes
+
+- All commits within each pull request are treated as one, therefore if ther is an error with one commit, the entire push will be rejected. It is advised that pull requests are opened based on a single feature or function, and they should contain as few lines of code or commits as is necessary. Avoid trying to do too much at once.
+
 ## External Contributors
