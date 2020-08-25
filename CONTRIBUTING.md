@@ -1,0 +1,19 @@
+# CONTRIBUTING TO THIS PROJECT
+
+Only members of TEAM-085 of the Andela/Facebook Build for SDG Cohort 2 are allowed to make contributions to this project, for any contributors outside this team, go [here](#external-contributors) to see steps on contributing
+
+## How to Contribute
+
+- [ ] To contribute, firstly fork this repository.
+- **Ensure you state on the slack channel exactly what you're working on at the moment so that multiple people don't work on the same feature or fix simultaenously.**
+- Ensure that you're working on a feature or fix within an issue that has been assigned to you.
+- **If you wish to work on a new feature, or fix a bug that you noticed outside your immediate task, indicate on the slack group first to ensure no one else is working on it and ensure you create an issue for it or ask to be assigned to the current issue.**
+- [ ] Write your code on the `dev` branch of your forked repository.
+- [ ] When you're done, create a pull request from your `dev` branch to the `dev` branch of the [Upstream Frontend Repository](https://github.com/BuildForSDGCohort2/Team-085-Frontend/tree/dev)
+
+## Contribution to Production
+- [ ] Successful additions are pushed to the [staging branch](https://github.com/BuildForSDGCohort2/Team-085-Frontend/tree/staging) for further review and testing.
+- [ ] If any bugs or discrepancies are encounter on the `staging` branch, a issue will be created with the `bug` label and assigned to a developer to fix.
+- [ ] When the `staging` branch is at a state that is production ready, it will then be pushed to the `develop` branch for final review.
+
+## External Contributors
