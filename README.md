@@ -32,4 +32,4 @@ The project is a services listings platform where technicians and handiworkers c
 -   The Application should be a single page application.
 -   There should be a landing page that is the root URL.
 -   The application should use [React Router](https://reactrouter.com/) for handling routing requests in the frontend.
--   There should be a dashboard for both sellers and buyers, and a seller can also be a buyer. A seller is anyone offering a service and a buyer is anyone receiving a service. 
+-   There should be a dashboard for both sellers and buyers, and a seller can also be a buyer. A seller is anyone offering a service and a buyer is anyone receiving a service.
