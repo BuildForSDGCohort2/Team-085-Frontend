@@ -1,6 +1,12 @@
 # CONTRIBUTING TO THIS PROJECT
 
-Only members of TEAM-085 of the Andela/Facebook Build for SDG Cohort 2 are allowed to make contributions to this project, for any contributors outside this team, go [here](#external-contributors) to see steps on contributing
+Only members of TEAM-085 of the Andela/Facebook Build for SDG Cohort 2 are allowed to make contributions to this project, for any contributors outside this team, go [here](#external-contributors) to see steps on contributing.
+
+This document will be regularly updated as the need arises, so it is important to always pull for updates.
+
+## Issues
+
+The development progress will be tracked using issues. Issues will be created whenever a new feature needs to be added, a bug needs to be fixed, or any change needs to be made to the code, dependencies or documentation. Before opening a new issue, always check to confirm there are no open issues addressing it already.
 
 ## How to Contribute
 
@@ -22,9 +28,11 @@ Only members of TEAM-085 of the Andela/Facebook Build for SDG Cohort 2 are allow
 
 ## Code Style
 It is extremely important that everyone follows the same code style. We'll be using the [Udacity](udacity.com) style guide for this project, because it is concise and easy to follow.
+
+- All Indentations must be 4 spaces long, that is `  `.
 - [Code Style for HTML](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
 - [Code Style Guide for CSS](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [Code Style Guide for Javascript](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
-- [Code Style Guide for Git](https://udacity.github.io/git-styleguide/)
+- [Code Style Guide4 for Git](https://udacity.github.io/git-styleguide/)
 
 ## External Contributors
