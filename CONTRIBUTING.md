@@ -15,7 +15,8 @@ The development progress will be tracked using issues. Issues will be created wh
 -   Ensure that you're working on a feature or fix within an issue that has been assigned to you.
 -   **If you wish to work on a new feature, or fix a bug that you noticed outside your immediate task, indicate on the slack group first to ensure no one else is working on it and ensure you create an issue for it or ask to be assigned to the current issue.**
 -   [ ] Write your code on the `dev` branch of your forked repository.
--   [ ] When you're done, create a pull request from your `dev` branch to the `dev` branch of the [Upstream Frontend Repository](https://github.com/BuildForSDGCohort2/Team-085-Frontend/tree/dev)
+-   [ ] Push your code to the `staging` branch of your repository and test it.
+-   [ ] When you're done, create a pull request from *your* **`staging`** branch to the **`dev`** branch of the *[Upstream Frontend Repository](https://github.com/BuildForSDGCohort2/Team-085-Frontend/tree/dev)*
 
 ## Contribution to Production
 -   [ ] Successful additions are pushed to the [staging branch](https://github.com/BuildForSDGCohort2/Team-085-Frontend/tree/staging) for further review and testing.
