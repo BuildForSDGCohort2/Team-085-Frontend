@@ -25,7 +25,7 @@ function checkValidServiceWorker(swUrl, config) {
   fetch(swUrl, {
     headers: { "Service-Worker": "script" },
   })
-    .then(response => {
+    .then((response) => {
       // Ensure service worker exists, and that we really are getting a JS file.
       const contentType = response.headers.get("content-type");
       if (
@@ -44,9 +44,9 @@ function checkValidServiceWorker(swUrl, config) {
       }
     })
     .catch(() => {
-      console.log(
-        "No internet connection found. App is running in offline mode."
-      );
+      // console.log(
+      //   "No internet connection found. App is running in offline mode."
+      // );
     });
 }
 
@@ -78,7 +78,7 @@ function registerValidSW(swUrl, config) {
               // At this point, everything has been precached.
               // It"s the perfect time to display a
               // "Content is cached for offline use." message.
-              console.log("Content is cached for offline use.");
+              // console.log("Content is cached for offline use.");
 
               // Execute callback
               if (config && config.onSuccess) {
@@ -90,7 +90,7 @@ function registerValidSW(swUrl, config) {
       };
     })
     .catch((error) => {
-      console.error("Error during service worker registration:", error);
+      // console.error("Error during service worker registration:", error);
     });
 }
 
@@ -135,7 +135,7 @@ export function unregister() {
         registration.unregister();
       })
       .catch(error => {
-        console.error(error.message);
+        // console.error(error.message);
       });
   }
 }

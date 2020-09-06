@@ -1,39 +1,54 @@
-.App {
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@700&family=Varela+Round&display=swap");
+
+body {
+  /* font-family: 'Oxygen', sans-serif; */
+  font-family: 'Varela Round', sans-serif;
+}
+
+/******** Link style ********/
+
+.link-border {
+  border: 2px solid #155eb5;
+}
+
+/******** Button style ********/
+
+.btn-blue {
+  color: #fff;
+  background-color: #155eb5;
+  border-color: #155eb5;
+}
+
+/******** Background style ********/
+
+.bg-color {
+  background-color: rgba(21, 81, 181, 0.7);
+  height: 700px;
+}
+
+/******** Text style ********/
+.text-blue {
+  color: #155eb5;
+}
+
+.text-light-blue {
+  color: #4a80c2;
+}
+
+/******** Font style ********/
+
+.font-bold {
+  font-weight: bold;
+}
+
+/******** Border style ********/
+
+.border-bottom {
+  border-bottom: 2px solid #155eb5;
+}
+
+/******** Postion Style ********/
+.center {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
-}
